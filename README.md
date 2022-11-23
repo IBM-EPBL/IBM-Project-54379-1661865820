@@ -1,20 +1,20 @@
 # IBM-Project-54379-1661865820
 Real-Time Communication System Powered by AI for Specially Abled
 
-Category: Artificial Intelligence
+##Category: Artificial Intelligence
 
-Tech Stack:
+##Tech Stack:
 Python,CNN,IBM Cloud,IBM Watson Studio,IBM Cloudant DB,Deep Learning,Python-Flask
 
-TEAM 1D:PNT2022TMID40089
+#TEAM 1D:PNT2022TMID40089
 
 TEAM LEAD : Divya.G
 
-Team member : Aravind.P
+#Team member : Aravind.P
 
-Team member : Gowtham.S
+#Team member : Gowtham.S
 
-Team member : Prem kumar.K
+#Team member : Prem kumar.K
 
 #PROJECT DESCRIPTION :
   The project deals on building an application which helps the specially challenged people to communicate between them and the common people. Communication between a       person with hearing/speech impairment and a normal person has always been a challenging task. This application tries to reduce the barrier of communication by           developing an assistive application for specially challenged people.

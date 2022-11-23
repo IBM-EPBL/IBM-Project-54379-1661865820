@@ -1,14 +1,15 @@
 # IBM-Project-54379-1661865820
 Real-Time Communication System Powered by AI for Specially Abled
 
-##Category: Artificial Intelligence
+##Category: 
+   Artificial Intelligence
 
 ##Tech Stack:
-Python,CNN,IBM Cloud,IBM Watson Studio,IBM Cloudant DB,Deep Learning,Python-Flask
+   Python,CNN,IBM Cloud,IBM Watson Studio,IBM Cloudant DB,Deep Learning,Python-Flask
 
 #TEAM 1D:PNT2022TMID40089
 
-TEAM LEAD : Divya.G
+#TEAM LEAD : Divya.G
 
 #Team member : Aravind.P
 

@@ -43,7 +43,7 @@ Real-Time Communication System Powered by AI for Specially Abled
  
  ## Planning Phase
      In this milestone you are expected to prepare milestones & tasks, sprint schedules.
-      1.Prepare Milestone & Activity List<br/>
+      1.Prepare Milestone & Activity List
       2.Sprint Delivery Plan
       
  ## Project Development Phase

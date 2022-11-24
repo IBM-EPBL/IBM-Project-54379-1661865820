@@ -31,7 +31,7 @@ Real-Time Communication System Powered by AI for Specially Abled
   In the design phase, one or more designs are developed, with which the project result can apparently be achieved. Depending on the subject of the project, the         products of the design phase can include dioramas, sketches etc
 
 ## Design Phase 01
-  1.Proposed Solution
+  1.Proposed Solution <br />
   2.Problem-Solution Fit
   3.Solution Architecture
 

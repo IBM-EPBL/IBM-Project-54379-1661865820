@@ -32,23 +32,23 @@ Real-Time Communication System Powered by AI for Specially Abled
 
 ## Design Phase 01
   1.Proposed Solution <br />
-  2.Problem-Solution Fit
+  2.Problem-Solution Fit <br />
   3.Solution Architecture
 
 # Design Phase 02
- 1.Solution Requirements
- 2.Customer Journey Map
- 3.Data Flow Diagrams
+ 1.Solution Requirements <br />
+ 2.Customer Journey Map <br />
+ 3.Data Flow Diagrams <br />
  4.Technology Architecture.
  
  ## Planning Phase
      In this milestone you are expected to prepare milestones & tasks, sprint schedules.
-      1.Prepare Milestone & Activity List
+      1.Prepare Milestone & Activity List <br />
       2.Sprint Delivery Plan
  ## Project Development Phase
     In this milestone you will start the project development and expected to perform the coding & solutioning, acceptance testing, performance testing based as per         the sprint and submit them.
- 1.Project Development - Delivery Of Sprint-1
- 2.Project Development - Delivery Of Sprint-2
- 3.Project Development - Delivery Of Sprint-3
+ 1.Project Development - Delivery Of Sprint-1 <br />
+ 2.Project Development - Delivery Of Sprint-2 <br />
+ 3.Project Development - Delivery Of Sprint-3 <br />
  4.Project Development - Delivery Of Sprint-4
  
